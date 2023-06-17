@@ -33,9 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/expenses-chart-component-rnSCC9yAGw)
 
-- Live Site: [cloudflare](https://?.dev/)
+- Live Site: [cloudflare](https://expenses-chart-component.pages.dev/)
 
 ## My process
 
@@ -45,13 +45,13 @@ Users should be able to:
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/648e024f0bdcd60aece920e0)
 
 ### Built with
 
 - [React](https://react.dev/)
 - [TailwindCss](https://tailwindcss.com/)
-- [Nivo bar chart] (https://nivo.rocks/bar/)
+- [Nivo bar chart](https://nivo.rocks/bar/)
 
 ### Useful resources
 
