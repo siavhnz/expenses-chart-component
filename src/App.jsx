@@ -1,5 +1,7 @@
+import Expenses from "./components/Expenses/Expenses";
+
 function App() {
-  return <>chart</>;
+  return <Expenses />;
 }
 
 export default App;

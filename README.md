@@ -11,8 +11,6 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 - [My process](#my-process)
   - [Work time](#work-time)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -54,10 +52,6 @@ Users should be able to:
 - [React](https://react.dev/)
 - [TailwindCss](https://tailwindcss.com/)
 - [Nivo bar chart] (https://nivo.rocks/bar/)
-
-### What I learned
-
-### Continued development
 
 ### Useful resources
 

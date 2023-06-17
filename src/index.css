@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    svg, svg * {
+        outline: none;
+    }
+}
+
+@layer components {
+    .expense-chart svg g rect:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+    @media (min-width:640px) {
+        .expense-chart g text {
+            font-size: 1rem!important;
+        }
+    }
+}
+    
